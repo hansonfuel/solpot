@@ -1,0 +1,26 @@
+#preload-flama {
+	position: absolute;
+	font-family: 'Flama';
+	opacity: 0;
+	height: 0;
+	width: 0;
+	display: flex;
+}
+
+#preload-pixel {
+	position: absolute;
+	font-family: 'Pixel';
+	opacity: 0;
+	height: 0;
+	width: 0;
+	display: flex;
+}
+
+#preload-airstrike {
+	position: absolute;
+	font-family: 'Airstrike';
+	opacity: 0;
+	height: 0;
+	width: 0;
+	display: flex;
+}
